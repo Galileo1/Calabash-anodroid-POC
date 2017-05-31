@@ -1,0 +1,15 @@
+class CreditMyAccount
+    DONOT_USE_SAVED_CC ||= "* id:'switchUseSavedCard'"
+    ACCOUNT_BALANCE ||= "* id:'textViewAttributeValue'"
+    AMOUNT ||= "* id:'editTextViewAttributeValue'"
+    CARD_NUMBER ||= "* id:'editTextCreditCardNumber'"
+    CARDHOLDER_NAME ||= "* id:'editTextCreditCardName'"
+    CC_MONTH ||= "* id:'editTextCreditCardMonth'"
+    CC_YEAR ||= "* id:'editTextCreditCardYear'"
+    CVV_NUMBER ||= "* id:'editTextCreditCardCVV'"
+    SAVE_THIS_CARD ||= "* id:'switchSaveCard'"
+    MAKE_PAYMENT ||= "* marked:'Make payment'"
+    PAYMENT_CONFIRMATION_POPUP ||= "android.widget.FrameLayout id:'content'"
+    PAYMENT_CONFIRMATION_OK ||= "android.widget.LinearLayout android.widget.Button * marked:'OK'"
+    PAYMENT_CONFIRMATION_CANCEL ||= "android.widget.LinearLayout android.widget.Button * marked:'Cancel'"
+end

@@ -1,0 +1,242 @@
+[
+  {
+    "uri": "features/DxLogin.feature",
+    "id": "demo-feature",
+    "keyword": "Feature",
+    "name": "Demo feature",
+    "description": "",
+    "line": 1,
+    "elements": [
+      {
+        "id": "demo-feature;login-logout",
+        "keyword": "Scenario",
+        "name": "Login Logout",
+        "description": "",
+        "line": 2,
+        "type": "scenario",
+        "steps": [
+          {
+            "keyword": "When ",
+            "name": "I login to trademe as user '1105'",
+            "line": 3,
+            "match": {
+              "location": "C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 21114
+            }
+          },
+          {
+            "keyword": "Then ",
+            "name": "I should be logged in",
+            "line": 4,
+            "match": {
+              "location": "C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "I am navigated to 'Account' screen",
+            "line": 5,
+            "match": {
+              "location": "C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "I should be logged out",
+            "line": 6,
+            "match": {
+              "location": "C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          }
+        ]
+      },
+      {
+        "id": "demo-feature;login-logout",
+        "keyword": "Scenario",
+        "name": "Login Logout",
+        "description": "",
+        "line": 8,
+        "type": "scenario",
+        "steps": [
+          {
+            "keyword": "When ",
+            "name": "I login to trademe as user '1105'",
+            "line": 9,
+            "match": {
+              "location": "C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 27272
+            }
+          },
+          {
+            "keyword": "Then ",
+            "name": "I should be logged in",
+            "line": 10,
+            "match": {
+              "location": "C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "I am navigated to 'Account' screen",
+            "line": 11,
+            "match": {
+              "location": "C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "I should be logged out",
+            "line": 12,
+            "match": {
+              "location": "C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "uri": "features/ExLogin.feature",
+    "id": "demo-feature",
+    "keyword": "Feature",
+    "name": "Demo feature",
+    "description": "",
+    "line": 1,
+    "elements": [
+      {
+        "id": "demo-feature;login-logout",
+        "keyword": "Scenario",
+        "name": "Login Logout",
+        "description": "",
+        "line": 2,
+        "type": "scenario",
+        "steps": [
+          {
+            "keyword": "When ",
+            "name": "I login to trademe as user '1105'",
+            "line": 3,
+            "match": {
+              "location": "C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 9091
+            }
+          },
+          {
+            "keyword": "Then ",
+            "name": "I should be logged in",
+            "line": 4,
+            "match": {
+              "location": "C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "I am navigated to 'Account' screen",
+            "line": 5,
+            "match": {
+              "location": "C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "I should be logged out",
+            "line": 6,
+            "match": {
+              "location": "C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          }
+        ]
+      },
+      {
+        "id": "demo-feature;login-logout",
+        "keyword": "Scenario",
+        "name": "Login Logout",
+        "description": "",
+        "line": 8,
+        "type": "scenario",
+        "steps": [
+          {
+            "keyword": "When ",
+            "name": "I login to trademe as user '1105'",
+            "line": 9,
+            "match": {
+              "location": "C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 7624
+            }
+          },
+          {
+            "keyword": "Then ",
+            "name": "I should be logged in",
+            "line": 10,
+            "match": {
+              "location": "C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "I am navigated to 'Account' screen",
+            "line": 11,
+            "match": {
+              "location": "C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "I should be logged out",
+            "line": 12,
+            "match": {
+              "location": "C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -3,7 +3,7 @@ This is just a proof of concept for calabash- cucumber that I have done for test
 
 1. Pre-requisite 
 
- Install ruby https://rubyinstaller.org/downloads/ and gem
+Install ruby https://rubyinstaller.org/downloads/ and gem
 
 The solution have a gem file that holds the dependencies for this project.
 

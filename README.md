@@ -13,3 +13,5 @@ gem 'calabash-android'
 
 gem 'cucumber'
 
+In Action - https://cloud.githubusercontent.com/assets/9716232/26659760/4c96894c-46c7-11e7-8462-117314a216ac.gif
+
